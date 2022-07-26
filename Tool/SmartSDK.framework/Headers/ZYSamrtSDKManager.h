@@ -22,9 +22,16 @@ NS_ASSUME_NONNULL_BEGIN
 
 //直接跳转
 +(void)presnetSmarHome:(NSDictionary *)parameters;
+//直接跳转
+/// type 1表示sit 2表示uat 3 表示release
++(void)presnetSmarHometType:(id)type params:(NSDictionary *)parameters;
 
 //通过控制器跳转
 +(void)parentVC:(id)parentVC toSmarHome:(NSDictionary *)parameters;
+
+//通过控制器跳转
+/// type 1表示sit 2表示uat 3 表示release
++(void)parentVC:(id)parentVC type:(id)type toSmarHome:(NSDictionary *)parameters;
 
 @end
 
