@@ -223,6 +223,7 @@
 "About" = "關於";
 "Do_clear_cache" = "是否清理緩存?";
 "Clear_cache_successfully" = "清理緩存完成";
+"Clear_cache_ing" =  "清理緩存中...";
 "Version" = "版本";
 "About_APP" = "關於APP";
 "APP_detail" = "是行車記錄儀手機客戶端，方便用戶操控記錄儀；用戶可以在連接其他熱點或者移動互聯網絡時可以將存儲本地時視頻分享出去。";
@@ -242,7 +243,8 @@
 "Memory_card_file" = "存儲卡文件";
 "Video_soundtrack_turned_on" = "視頻原聲已開啟";
 "Video_soundtrack_turned_off" = "視頻原聲已關閉";
-"Clip_video_less_5_second" = "只支持5以上";
+"Clip_video_less_5_second" = "只支持5秒以上";
+"Cliping "="正在剪辑";
 "Clip selected clip" = "剪辑选中片段";
 "Please click the clip button first" = "請先點擊剪輯按鈕";
 "video_clip" = "視頻剪輯";

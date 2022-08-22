@@ -218,6 +218,7 @@
 "About" = "About";
 "Do_clear_cache" = "Clear cache?";
 "Clear_cache_successfully" = "Clear cache successfully";
+"Clear_cache_ing" =  "Clear cache...";
 "Version" = "Version";
 "About_APP" = "About APP";
 "APP_detail" = " is the mobile phone app of Dash cam, which is convenient for the user to control the dash cam; the user can share the stored local time video when connecting other hotspots or mobile internet.";
@@ -241,6 +242,7 @@
 "Video_soundtrack_turned_on" = "Video soundtrack turned on";
 "Video_soundtrack_turned_off" = "Video soundtrack turned off";
 "Clip_video_less_5_second" = "Clip less 5sec";
+"Cliping "="Cliping";
 "Clip selected clip" = "Clip selected clip";
 "Please click the clip button first" = "Please click the clip button first";
 "video_clip" = "Video clip";
