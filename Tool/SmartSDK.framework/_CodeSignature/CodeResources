@@ -6,7 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		mcBsp4O2GpKD6oPn0zEutIqw90I=
+		1GC2muLuB3tQajvobAQMBYGNPVY=
 		</data>
 		<key>AMap.bundle/AMap3D.bundle/3d_navi_sky_day.data</key>
 		<data>
@@ -7444,6 +7444,18 @@
 		<key>J02Bundle.bundle/Contents/Resources/loading_icon@3x.png</key>
 		<data>
 		JfKRs1JN5B+jnCYbH8ZmG6TWIns=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_icon.png</key>
+		<data>
+		uo94tPgh6LDS9B/fUGkACmNsTkE=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_icon@2x.png</key>
+		<data>
+		pmSysIjL8rBkm+MOB1LfSfdlUzA=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_icon@3x.png</key>
+		<data>
+		vqcdclP18671IqApREvOX+Fkesc=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_right_icon@2x.png</key>
 		<data>
@@ -28313,6 +28325,39 @@
 			<key>hash2</key>
 			<data>
 			6dg1zh0/7uBazvKKcKMAoVibx0FKMvs6A22BrxuJ6EI=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_icon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uo94tPgh6LDS9B/fUGkACmNsTkE=
+			</data>
+			<key>hash2</key>
+			<data>
+			m2PWHpxZ/DvxcGNaQ0GsqB0rXnoxRlzUA8XAEi8A/5U=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_icon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pmSysIjL8rBkm+MOB1LfSfdlUzA=
+			</data>
+			<key>hash2</key>
+			<data>
+			065YKNd9SxNYx0HEqX67yulrU1g+JYVH16nDyghSeeo=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_icon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vqcdclP18671IqApREvOX+Fkesc=
+			</data>
+			<key>hash2</key>
+			<data>
+			pbOD3MzlOKQiyQb6lKkDmQE2uZG52fKmD2WqE3WWV6Y=
 			</data>
 		</dict>
 		<key>J02Bundle.bundle/Contents/Resources/mine_arrow_right_icon@2x.png</key>
