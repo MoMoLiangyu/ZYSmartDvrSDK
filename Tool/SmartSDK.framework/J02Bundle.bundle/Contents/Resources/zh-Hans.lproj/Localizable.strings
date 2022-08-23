@@ -77,7 +77,7 @@
 "car_connect_wifi_successed_tip" = "连接成功";
 "car_connect_wifi_successed_btn_tip" = "进入实时预览";
 "car_connect_wifi_fail_tip" = "请您重新检查车机网络和密码，\n再次重试。";
-"check_wifi_connect_loading_tip" = "正在检测是否连接上记录仪，\n请稍候...";
+"check_wifi_connect_loading_tip" = "正在检测是否连接上记录仪，请稍候...";
 "wifi_setting..." = "WiFi连接中, 请稍候...";
 "dvr_connecting_wifi_tip" = "DVR正在连接车机WiFi\n请确保手机与车机WiFi的连接";
 "car_connect_wifi_fail_btn_tip" = "确认";

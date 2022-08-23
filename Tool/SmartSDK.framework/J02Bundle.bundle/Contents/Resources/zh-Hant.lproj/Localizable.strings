@@ -79,7 +79,7 @@
 "Select_network" = "選擇網絡";
 "car_connect_wifi_successed_tip" = "連接成功";
 "car_connect_wifi_successed_btn_tip" = "進入實時預覽";
-"check_wifi_connect_loading_tip" = "正在檢測是否連接上記錄儀，\n請稍候...";
+"check_wifi_connect_loading_tip" = "正在檢測是否連接上記錄儀，請稍候...";
 "wifi_setting..." = "WiFi连接中, 請稍候...";
 "dvr_connecting_wifi_tip" = "DVR正在連接車機WiFi\n請確保手機與車機WiFi的連接";
 "car_connect_wifi_fail_tip" = "請您重新檢查車機網絡和密碼，\n再次重試。";
