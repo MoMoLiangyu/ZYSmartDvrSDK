@@ -78,6 +78,7 @@
 "car_connect_wifi_successed_btn_tip" = "进入实时预览";
 "car_connect_wifi_fail_tip" = "请您重新检查车机网络和密码，\n再次重试。";
 "check_wifi_connect_loading_tip" = "正在检测是否连接上记录仪，请稍候...";
+"Device_had_bind_tip" ="连接失败，改设备已被其他用户绑定";
 "wifi_setting..." = "WiFi连接中, 请稍候...";
 "dvr_connecting_wifi_tip" = "DVR正在连接车机WiFi\n请确保手机与车机WiFi的连接";
 "car_connect_wifi_fail_btn_tip" = "确认";
@@ -244,7 +245,7 @@
 "Video_soundtrack_turned_on" = "视频原声已开启";
 "Video_soundtrack_turned_off" = "视频原声已关闭";
 "Clip_video_less_5_second" = "只支持5秒以上";
-"Cliping "="正在剪辑";
+"Cliping..."="正在剪辑";
 "Clip selected clip" = "剪辑选中片段";
 "Please click the clip button first" = "请先点击剪辑按钮";
 "video_clip" = "视频剪辑";
@@ -269,8 +270,8 @@
 "Select_download_photo" = "请选择想要下载的照片";
 "Sure_to_download_photo" = "是否下载所选照片？";
 "Select_del_photo" = "请选择想要删除的照片";
-"Clip_success" ="裁剪成功";
-"Clip_failled" ="裁剪失败，请重新裁剪";
+"Clip_success" ="剪辑成功";
+"Clip_failled" ="剪辑失败，请重新剪辑";
 "Sure_to_del_photo" = "是否删除所选照片?";
 "Select_share_photo" = "请选择想要分享的照片";
 "Select_share_video" = "请选择想要分享的视频";

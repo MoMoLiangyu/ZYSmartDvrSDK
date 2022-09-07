@@ -97,6 +97,7 @@
 "Connect_had_wifi_tip" = "The DVR is connecting to the WiFi of the vehicle, please make sure that the mobile phone is connected to the WiFi of the vehicle";
 "DVR_connected_success_tip" = "Please manually enter into the mobile phone settings-WiFi settings\nConnect the mobile phone to the car WiFi";
 "check_wifi_connect_loading_tip" = "Checking if the recorder is connected,\n please wait...";
+"Device_had_bind_tip" ="The connection failed, the device has been bound by another user";
 "dvr_connecting_wifi_tip" = "The DVR is connecting to the car's WiFi\nPlease make sure that the mobile phone is connected to the car's WiFi";
 "wifi_setting..." = "WiFi connecting, please wait...";
 // Live
@@ -242,7 +243,7 @@
 "Video_soundtrack_turned_on" = "Video soundtrack turned on";
 "Video_soundtrack_turned_off" = "Video soundtrack turned off";
 "Clip_video_less_5_second" = "Clip less 5sec";
-"Cliping "="Cliping";
+"Cliping..."="Cliping";
 "Clip selected clip" = "Clip selected clip";
 "Please click the clip button first" = "Please click the clip button first";
 "video_clip" = "Video clip";

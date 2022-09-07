@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		TrUmgrdwAbOoAPvlBacHlDB9A3M=
-		</data>
 		<key>AMap.bundle/AMap3D.bundle/3d_navi_sky_day.data</key>
 		<data>
 		q9Bts+tm98I2dPD/dapEKCaSSN8=
@@ -5882,7 +5878,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MXOyWbiz+ESC2TxxdWa0uBlW4u0=
+		3NMnqa6fRhnz6MZz0MhaBIC2Aro=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/Ablum_video_play_clip_icon.png</key>
 		<data>
@@ -6548,7 +6544,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DXhijo/97+MWOtjv622sSChmNqA=
+			qwS9qPKEQmvo6BlSHqZaqW6el3Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -7681,7 +7677,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eQ+7yzvSb9xruXmX6usJ2/XPxOw=
+			FQPjSmh5nMl8teGR5vcdM0tvJZU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -7690,7 +7686,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MSmqV+JskBI0L8rjJx6p3Manie0=
+			YWNdOcCD43z+poMgOsuGbTuD+Bk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -25865,11 +25861,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DXhijo/97+MWOtjv622sSChmNqA=
+			qwS9qPKEQmvo6BlSHqZaqW6el3Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			eKHQ7PvBxokjC/HQ0qXutrBQqpozgoHKgjWYLg/2THM=
+			ZqydR9Sz0GBsGacW5CtsfCdH43c4IXigT3wmzdrd+qw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -28969,11 +28965,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eQ+7yzvSb9xruXmX6usJ2/XPxOw=
+			FQPjSmh5nMl8teGR5vcdM0tvJZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			bv39iIk2RkwD1mHpqcscC/Nw3mIXhda8MkhaT85cHvI=
+			YUK/RUo3MhNgMeqcEtvYW6Aqbl68W7CycjNh9sSNBGo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -28982,11 +28978,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MSmqV+JskBI0L8rjJx6p3Manie0=
+			YWNdOcCD43z+poMgOsuGbTuD+Bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			NRigjFPfCFR1ITzF4LxLb8BH2kou4O/RlxvcrAaFXQc=
+			6TTCBJl7TEL8uLgO3T48ekP7ErYBeAhgSEUel9zVoWY=
 			</data>
 			<key>optional</key>
 			<true/>
