@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		1GC2muLuB3tQajvobAQMBYGNPVY=
+		</data>
 		<key>AMap.bundle/AMap3D.bundle/3d_navi_sky_day.data</key>
 		<data>
 		q9Bts+tm98I2dPD/dapEKCaSSN8=
@@ -5878,7 +5882,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3NMnqa6fRhnz6MZz0MhaBIC2Aro=
+		AfdQjU8MB3ijFq6hiyNolvIKJ9E=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/Ablum_video_play_clip_icon.png</key>
 		<data>
@@ -5927,6 +5931,30 @@
 		<key>J02Bundle.bundle/Contents/Resources/Connect_wifi_sucessed_tip_icon@3x.png</key>
 		<data>
 		koXEA6A+V4MIl0P9NdZlPvmPULw=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Home_had_connect_icon.png</key>
+		<data>
+		IyP/UayZzgc/Y7ayaN3z3TSW76M=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Home_had_connect_icon@2x.png</key>
+		<data>
+		HDw0pZDMdpT/4aA37wv6OXxQ2rg=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Home_had_connect_icon@3x.png</key>
+		<data>
+		p0zzDLBJVykcVv3JS+tXY7fYadQ=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Home_no_connect_icon.png</key>
+		<data>
+		bOva53McjHRtGHVLARhAO6W/YmQ=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Home_no_connect_icon@2x.png</key>
+		<data>
+		Vaot95QaohUzuYp6accU3csVNpI=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Home_no_connect_icon@3x.png</key>
+		<data>
+		ZliW3o9Q+Jhh8uN5/wwYU+CGZKA=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/Home_record_banenr_h_bottom_icon.png</key>
 		<data>
@@ -6011,6 +6039,18 @@
 		<key>J02Bundle.bundle/Contents/Resources/Setting_fireware_sucessed_tip_icon@3x.png</key>
 		<data>
 		q/oMZl2oqHvJ3vBgepF5gc7dA9c=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Setting_update_soft_icon.png</key>
+		<data>
+		DTiYDG80nZPs5OCgskggp9lEyeo=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Setting_update_soft_icon@2x.png</key>
+		<data>
+		uy1WS5R1jPV6pAKW6Yp5MtZXEBs=
+		</data>
+		<key>J02Bundle.bundle/Contents/Resources/Setting_update_soft_icon@3x.png</key>
+		<data>
+		Mtmca+lxT4cYyLIwSaB9xY80aNI=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/album_arrow_right_icon.png</key>
 		<data>
@@ -7407,15 +7447,15 @@
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/live_video_recording_h_icon.png</key>
 		<data>
-		34RAMxgdn3F3xGrPBxXbNODSvvg=
+		pBoNboddyR6vTo9RDCgxmpHRXHo=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/live_video_recording_h_icon@2x.png</key>
 		<data>
-		YiiTypNL/V1Bng89zV3mwdXwSy0=
+		e3jeCPxdlFBvS5hURsafSt4IUUg=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/live_video_recording_h_icon@3x.png</key>
 		<data>
-		FPul9hPjrV7uroQDFCN7f2bVByE=
+		B66gGOhdd3rjanTZx8k8fzFy1/I=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/live_video_selected_icon.png</key>
 		<data>
@@ -24174,6 +24214,72 @@
 			5qWb3sFu1/ZvEJXaxqDGflN2XK4Ra1LoPzPnqn6JpRE=
 			</data>
 		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Home_had_connect_icon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IyP/UayZzgc/Y7ayaN3z3TSW76M=
+			</data>
+			<key>hash2</key>
+			<data>
+			SOiaNhhEG4LENTLPI2WEaGjirY/mPyaxDnzObs9qRxc=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Home_had_connect_icon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HDw0pZDMdpT/4aA37wv6OXxQ2rg=
+			</data>
+			<key>hash2</key>
+			<data>
+			gNdqzc4JdUv11v/6XBQcwFR3h0ir1lhX678gi/Sglf4=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Home_had_connect_icon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p0zzDLBJVykcVv3JS+tXY7fYadQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			mcPo9VB3Q5ZEhbb7gdTQdQDoQqI7RLP+14hJx6rQOjM=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Home_no_connect_icon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bOva53McjHRtGHVLARhAO6W/YmQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			4ubCU3a0+9GiWFBMy8VOhvD0pb7Y5roJStnEpUoiGaU=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Home_no_connect_icon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Vaot95QaohUzuYp6accU3csVNpI=
+			</data>
+			<key>hash2</key>
+			<data>
+			imEwLALb39gjWDfMd805OecyvgYL3Ps87gvYOjvAPBU=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Home_no_connect_icon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZliW3o9Q+Jhh8uN5/wwYU+CGZKA=
+			</data>
+			<key>hash2</key>
+			<data>
+			YdfVMQDaxePVFRTO3MXArqDgHz6e64q2k/GaF7OGn+E=
+			</data>
+		</dict>
 		<key>J02Bundle.bundle/Contents/Resources/Home_record_banenr_h_bottom_icon.png</key>
 		<dict>
 			<key>hash</key>
@@ -24403,6 +24509,39 @@
 			<key>hash2</key>
 			<data>
 			U5GtrbzsKVz+mbBhkaH1HZ+qO5f62+ZHqQjwT1jC3VA=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Setting_update_soft_icon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DTiYDG80nZPs5OCgskggp9lEyeo=
+			</data>
+			<key>hash2</key>
+			<data>
+			KfGnF2QTTUmE/NmxqfMhkY4SK1oUJnddpP7Wxhder/M=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Setting_update_soft_icon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uy1WS5R1jPV6pAKW6Yp5MtZXEBs=
+			</data>
+			<key>hash2</key>
+			<data>
+			kDP+SoR/Hzmtod/RKTDBtH559/28WiZe6svwLtCERCk=
+			</data>
+		</dict>
+		<key>J02Bundle.bundle/Contents/Resources/Setting_update_soft_icon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mtmca+lxT4cYyLIwSaB9xY80aNI=
+			</data>
+			<key>hash2</key>
+			<data>
+			X8rodHKzRsarFhlhS1tacsY9VGY76DCQv0k6H4KBQLU=
 			</data>
 		</dict>
 		<key>J02Bundle.bundle/Contents/Resources/album_arrow_right_icon.png</key>
@@ -28228,33 +28367,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			34RAMxgdn3F3xGrPBxXbNODSvvg=
+			pBoNboddyR6vTo9RDCgxmpHRXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			uTG6Or49R4SH1DlE9WiKGn8dCoNW8WHzfbikl/KVO00=
+			0LsHl7wHrAKLiBAsrqaC0oeAFCbBRa1vLcdMoNj6Ags=
 			</data>
 		</dict>
 		<key>J02Bundle.bundle/Contents/Resources/live_video_recording_h_icon@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YiiTypNL/V1Bng89zV3mwdXwSy0=
+			e3jeCPxdlFBvS5hURsafSt4IUUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z6QVwcULCi0hJflqrPb/Z+inGu//RvYSIELOmSCdiEI=
+			LFA/M1fxdWG5U6Qh9bLdLDvJN/iKwfM2Ie1H4kbPHxs=
 			</data>
 		</dict>
 		<key>J02Bundle.bundle/Contents/Resources/live_video_recording_h_icon@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FPul9hPjrV7uroQDFCN7f2bVByE=
+			B66gGOhdd3rjanTZx8k8fzFy1/I=
 			</data>
 			<key>hash2</key>
 			<data>
-			gmxZt1QlDAxYLUrra17y4jJIEsHfv5ySnS8B+52Fhyg=
+			Ra9qdCv5IHGL6wDOyuO0Wy5QepsPG59GQSlA7JLXmuM=
 			</data>
 		</dict>
 		<key>J02Bundle.bundle/Contents/Resources/live_video_selected_icon.png</key>
