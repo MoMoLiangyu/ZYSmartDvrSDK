@@ -33,6 +33,9 @@
 "Added_device" = "已添加設備";
 "Dash_cam" = "行車記錄儀";
 "Live_title_str" = "實時預覽";
+"Checking_recorder_connetct_status_tip" ="正在檢測是否連接上記錄儀，請稍後...";
+"Connect_faill_please_reconnect" ="連接失敗，請重新連接";
+"Please_wait_tip" = "請稍後...";
 "Connection_help" = "連接幫助:\n1.請至手機無線局域網（WiFi）連接設備：Smart-XXXX\n2.默認密碼：12345678\n3.返回APP，立即使用";
 "Device_verifying" = "設備認證中...";
 "Device_verify_success" = "設備認證成功";

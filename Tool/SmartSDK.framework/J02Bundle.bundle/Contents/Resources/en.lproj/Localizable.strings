@@ -32,6 +32,9 @@
 "Added_device" = "Added device";
 "Dash_cam" = "Dash cam";
 "Live_title_str" = "Live preview";
+"Checking_recorder_connetct_status_tip" ="Checking if the recorder is connected, please wait...";
+"Connect_faill_please_reconnect" ="Connection failed, please reconnect";
+"Please_wait_tip" = "Please wait...";
 "Connection_help" = "Connecting tips:\n1.Please connect device in mobile phone WiFi settings：Smart-XXXX\n2.Default password：12345678\n3.Return to APP and continue to use immediately";
 "Device_verifying" = "Device verifying...";
 "Device_verify_success" = "Device verify success";
