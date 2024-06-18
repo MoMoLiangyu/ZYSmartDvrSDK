@@ -6,6 +6,14 @@
   
 */
 
+"Request_location_permission"="申请定位权限";
+"Request_location_permission_content"="位置权限用于购车、探索、预约试驾、发动态/文章、发现社群、车辆位置、地理围栏、蓝牙钥匙、灯光密语、收货地址、充电地图、售后服务预约等功能的定位需求";
+"Not_set_yet"="暂不设置";
+"Go_setting"="去设置";
+"Request_storage_permission"="申请存储权限";
+"Request_storage_permission_content"="存储权限用于预览保存、客服、分享、行车记录仪、头像、灯光密语、评价等功能的上传或下载照片/视频/音乐的需求";
+
+
 "server_error" = "无网络可用";
 "req_time_out" = "请求超时";
 "nonetwork" = "没有网络";
@@ -22,6 +30,7 @@
 "Unbinding" = "解绑中...";
 "wifi_connect_home_tip" = "请进入手机WiFi系统，连接设备WiFi";
 "wifi_connect_home_wifit_tip" = "请手动进入手机WiFi设置界面\n连接记录仪WiFi";
+"sure_DVR_online_and_connected_tip"="请确认记录仪已开机，\n且手机和记录仪均成功连上车机热点";
 
 // Home
 "Home" = "首页";
@@ -45,7 +54,8 @@
 "back" = "返回";
 "connect" = "连接";
 "unbind" = "解绑";
-"Please connect the DVR" = "请连接记录仪";
+"Please connect the DVR" = "请连接记录仪 (仅支持连接原厂附件多功能行车记录仪)";
+"Tip_video_downing"="请长按下载后观看视频\n或取出TF卡读卡观看";
 "Loading" = "加载中";
 "Connect the DVR" = "连接记录仪";
 "Connect_car_wifi" = "连接车机WiFi";

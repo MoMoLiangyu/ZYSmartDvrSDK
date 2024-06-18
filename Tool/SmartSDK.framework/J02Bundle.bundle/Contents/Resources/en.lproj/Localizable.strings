@@ -6,6 +6,13 @@
   
 */
 
+"Request_location_permission"="Request Location Permission";
+"Request_location_permission_content"="Location permission is used for car purchase, exploration, test drive booking, posting updates/articles, discovering communities, vehicle location, geofencing, Bluetooth key, light messages, delivery address, charging map, after-sales service booking, and other location-based needs";
+"Not_set_yet"="Cancel";
+"Go_setting"="Go Setting";
+"Request_storage_permission"="Request Storage Permission";
+"Request_storage_permission_content"="Storage permission is used for the needs of uploading or downloading photos/videos/music for functions such as preview and save, customer service, sharing, dashcam, profile picture, light messages, and reviews";
+
 "server_error" = "Wifi error";
 "req_time_out" = "Request time out";
 "nonetwork" = "Not network";
@@ -22,6 +29,7 @@
 "Unbinding succeeded" = "Unbinding succeeded";
 "wifi_connect_home_tip" = "Please enter the mobile phone WiFi system, connect the device WiFi";
 "wifi_connect_home_wifit_tip" = "Please manually enter the mobile phone WiFi setting interface\nConnect the recorder WiFi";
+"sure_DVR_online_and_connected_tip"="Please confirm that the DVR is turned on, \nand the mobile phone and recorder are successfully connected to the hot spot of the vehicle";
 
 // Home
 "Home" = "Home";
@@ -45,7 +53,8 @@
 "back" = "back";
 "connect" = "connect";
 "unbind" = "unbind";
-"Please connect the DVR" = "Please connect the DVR";
+"Please connect the DVR" = "Please connect the DVR (DVR & ETC only)";
+"Tip_video_downing"="Please long press and hold to download and watch the video \n or take out the TF card to  watch";
 "Loading" = "Loading";
 "Connect the DVR" = "Connect the DVR";
 "Connect_car_wifi" = "Connect the car Wifi";
@@ -251,7 +260,7 @@
 "Please click the clip button first" = "Please click the clip button first";
 "video_clip" = "Video clip";
 "Picture_preview" = "Picture preview";
-"Manual_recording" = "Manual recording";
+"Manual_recording" = "Manual";
 "select_all" = "Select all";
 "deselect_all" = "Deselect all";
 "edit" = "Edit";

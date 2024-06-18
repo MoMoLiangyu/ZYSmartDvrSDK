@@ -1,6 +1,6 @@
 framework module SmartSDK {
   umbrella header "SmartSDK.h"
-
   export *
+
   module * { export * }
 }

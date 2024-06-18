@@ -5878,7 +5878,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3NMnqa6fRhnz6MZz0MhaBIC2Aro=
+		BEKjZYn7hQT+ZSvMDRqtF7D8Gtk=
 		</data>
 		<key>J02Bundle.bundle/Contents/Resources/Ablum_video_play_clip_icon.png</key>
 		<data>
@@ -6580,7 +6580,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oIwixNvoz4k/CyYjPcIm4jZi7tM=
+			a2QmqF9qGNBIVTHxChBo14bNsFM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -7713,7 +7713,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iGhffvnp+Bnjukq9PeE0vFfm6ac=
+			120X7O0KUENpAoJOnB3EVc2sw1w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -7722,7 +7722,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TnAznMaiviXitnCP7GxBeYXcXhc=
+			tAm5JrK0JpBreRdzvvHDiBxMHcU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -7753,7 +7753,11 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		OudHVtjpY499C0QsiPoUjQS/8ao=
+		kr4AnJiC5NKeU5J9QCUC+pUGo0s=
+		</data>
+		<key>TsangerYunHei-W04.ttf</key>
+		<data>
+		O55r5qSRflmAqHZAW4xdHrfzqoY=
 		</data>
 		<key>ZFPlayer.bundle/ZFPlayer_back_full@2x.png</key>
 		<data>
@@ -7762,6 +7766,10 @@
 		<key>ZFPlayer.bundle/ZFPlayer_back_full@3x.png</key>
 		<data>
 		10dyNxVTt4KNnjKR7nJJrazhOvM=
+		</data>
+		<key>ZFPlayer.bundle/ZFPlayer_battery_lightning.png</key>
+		<data>
+		tuDQN6QDU+VaJWMQkZwexcb0U9g=
 		</data>
 		<key>ZFPlayer.bundle/ZFPlayer_bottom_shadow.png</key>
 		<data>
@@ -25996,11 +26004,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oIwixNvoz4k/CyYjPcIm4jZi7tM=
+			a2QmqF9qGNBIVTHxChBo14bNsFM=
 			</data>
 			<key>hash2</key>
 			<data>
-			fMnsLIlYPV370ipLwUMRESt60m0YS7L022cbEiXBJgU=
+			DnAigcPkTlvWoCZXTe7q0DAcReIdI27QuQwzTTJkJaA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -29100,11 +29108,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iGhffvnp+Bnjukq9PeE0vFfm6ac=
+			120X7O0KUENpAoJOnB3EVc2sw1w=
 			</data>
 			<key>hash2</key>
 			<data>
-			kHghDPvMfSVl4IQjE23cYg5VLFXMAiR8TLtMFPS7LI4=
+			wKp7NFtxdwhk6XfxWqWtfslU6uJFEtsiX9ZQrhXU10w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -29113,11 +29121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TnAznMaiviXitnCP7GxBeYXcXhc=
+			tAm5JrK0JpBreRdzvvHDiBxMHcU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+93qJfMKLNA9C9hrr/ntRYPjwYZ8Hqcgx6mCgwMA8co=
+			Llza65jh2OFyKJW6assAlQN4JrtxwG+sJPYuslMsY28=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -29192,11 +29200,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OudHVtjpY499C0QsiPoUjQS/8ao=
+			kr4AnJiC5NKeU5J9QCUC+pUGo0s=
 			</data>
 			<key>hash2</key>
 			<data>
-			XRA2DN0qeG5jkJIH7kKzxfAF9f3MoMQe7C+qdRgpHBU=
+			M+6TY/KAPDNFWDzdMVbDEJUKue/xD3xKjPG16Hxhcik=
+			</data>
+		</dict>
+		<key>TsangerYunHei-W04.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O55r5qSRflmAqHZAW4xdHrfzqoY=
+			</data>
+			<key>hash2</key>
+			<data>
+			kVs0aiblAiOgEA8UNEQfo6fSH5Db62sAXjwgUTUxr84=
 			</data>
 		</dict>
 		<key>ZFPlayer.bundle/ZFPlayer_back_full@2x.png</key>
@@ -29219,6 +29238,17 @@
 			<key>hash2</key>
 			<data>
 			lr0ffQIc+1kqxcwC3hJF4zAa8PnOyLn6Gxlw+6irGT8=
+			</data>
+		</dict>
+		<key>ZFPlayer.bundle/ZFPlayer_battery_lightning.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tuDQN6QDU+VaJWMQkZwexcb0U9g=
+			</data>
+			<key>hash2</key>
+			<data>
+			CVi23WowDy3AQk/m/omf/+ecSjjVmIm+AYcQeg3L+lM=
 			</data>
 		</dict>
 		<key>ZFPlayer.bundle/ZFPlayer_bottom_shadow.png</key>

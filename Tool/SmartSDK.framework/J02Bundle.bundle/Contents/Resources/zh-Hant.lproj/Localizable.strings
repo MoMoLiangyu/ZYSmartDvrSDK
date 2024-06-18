@@ -5,7 +5,12 @@
   Created by Find on 2022/1/15.
   
 */
-
+"Request_location_permission"="申請定位權限";
+"Request_location_permission_content"="位置權限用於購車、探索、預約試駕、發動態/文章、發現社群、車輛位置、地理圍欄、藍牙鑰匙、燈光密語、收貨地址、充電地圖、售後服務預約等功能的定位需求";
+"Not_set_yet"="暫不設置";
+"Go_setting"="去設置";
+"Request_storage_permission"="申請存儲權限";
+"Request_storage_permission_content"="存儲權限用於預覽保存、客服、分享、行車記錄儀、頭像、燈光密語、評價等功能的上傳或下載照片/視頻/音樂的需求";
 
 "server_error" = "无网络可用";
 "req_time_out" = "請求超時";
@@ -23,6 +28,7 @@
 "Unbinding" = "解綁中...";
 "wifi_connect_home_tip" = "請進入手機WiFi系統，連接設備WiFi";
 "wifi_connect_home_wifit_tip" = "請手動進入手機WiFi設置界面\n連接記錄儀WiFi";
+"sure_DVR_online_and_connected_tip"="請確認記錄儀已開機，\n且手機和記錄儀均成功連上車機熱點";
 
 // Home
 "Home" = "首頁";
@@ -46,7 +52,8 @@
 "back" = "返回";
 "connect" = "連接";
 "unbind" = "解綁";
-"Please connect the DVR" = "請連接記錄儀";
+"Please connect the DVR" = "請連接記錄儀 (僅支持連接原廠附件多功能行車記錄儀)";
+"Tip_video_downing"= "請長按下載後觀看視頻\n或取出TF卡讀卡觀看";
 "Loading" = "加載中";
 "Connect the DVR" = "連接記錄儀";
 "Connect_car_wifi" = "連接車機WiFi";
