@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZYSmartDvrSDK"
-  spec.version      = "1.3.8"
+  spec.version      = "1.3.9"
   spec.summary      = "dvr cam"
 
   # This description is used to generate tags and improve search results.
@@ -150,5 +150,6 @@ Pod::Spec.new do |spec|
   spec.dependency "AFNetworking", "~> 4.0.0"
   spec.dependency "BIJKPlayer"
   spec.dependency "SDWebImage"
+  spec.dependency "CocoaAsyncSocket"
 
 end
